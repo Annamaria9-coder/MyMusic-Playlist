@@ -1,0 +1,38 @@
+{
+  "name": "cosmicjs-music-site",
+  "version": "1.0.0",
+  "description": "Personal music site with Nuxt and Cosmic JS",
+  "author": "Sergey Ukolov <zezic51@yandex.ru>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "npm run build; HOST=0.0.0.0 nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/moment": "^1.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chroma-js": "^1.3.7",
+    "cosmicjs": "^3.2.12",
+    "moment": "^2.22.2",
+    "node-sass": "^4.9.2",
+    "nuxt": "^1.0.0",
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.0.3",
+    "striptags": "^3.1.1",
+    "svg-sprite-loader": "^3.8.0",
+    "svgo": "^1.0.0",
+    "svgo-loader": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
