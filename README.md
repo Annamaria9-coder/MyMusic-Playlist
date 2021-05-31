@@ -2,9 +2,9 @@
 
 ![screenshot](screenshot.png)
 
-### [View Demo](https://cosmicjs.com/apps/vue-music-website)
+### [View Demo](https://mymusicplaylist21.netlify.app/)
 
-Personal music site built with Nuxt and [Cosmic JS](https://cosmicjs.com/buckets).
+.
 
 ## How to
 
