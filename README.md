@@ -15,8 +15,8 @@ Import example [bucket.json](bucket.json) to your Cosmic JS bucket.
 ### Clone this repository
 
 ``` bash
-git clone https://github.com/cosmicjs/vue-music-website
-cd vue-music-website
+https://github.com/Annamaria9-coder/MyMusic-Playlist.git
+cd MyMusic-Playlist
 ```
 
 ### Configure
